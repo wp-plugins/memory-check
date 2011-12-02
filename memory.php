@@ -4,7 +4,7 @@ Plugin Name: Memory check
 Plugin URI:
 Description: This plugin shows WordPress memory usage .
 Version: 1.0
-Author:
+Author:   petersoler55
 Author URI: http://savremena.me
 License: GPL2
 */

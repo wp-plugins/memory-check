@@ -1,5 +1,5 @@
 === Memory check ===
-Contributors: imh_brad
+Contributors: petersoler55
 Tags: memory,viewer,memory check
 Requires at least: 3.0
 Tested up to: 3.2.1
