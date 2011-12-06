@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Facebook Fan and Like widget
-Plugin URI:  http://wpdeveloper.info/wp-facebook-fan-box-widget
+Plugin URI:  
 Description: Display Facebook Like widget as widget in your WordPress blog.
-Author: petersoler55
-Version: 1.0
-Author URI:  http://wpdeveloper.info/
+Author: podz
+Version: 1.1
+Author URI:  
 
 Copyright 2011
 
